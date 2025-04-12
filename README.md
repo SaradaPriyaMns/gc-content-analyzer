@@ -11,7 +11,7 @@ Upload a FASTA file or paste a sequence to instantly visualize and download resu
 - Calculate GC content and base percentages for each sequence
 - Visualize nucleotide composition via interactive bar plots
 - Export summary data to CSV
-- Download sequences in FASTA format
+- Download selected sequences GC content
 
 ---
 
