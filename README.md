@@ -1,4 +1,4 @@
-# gc-content-analyzer
+# gc-content-analyzer app
 
 A Shiny web application to analyze DNA sequences for GC content and nucleotide composition (A, T, G, C).  
 Upload a FASTA file or paste a sequence to instantly visualize and download results.
